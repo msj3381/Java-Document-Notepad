@@ -12,3 +12,5 @@ functions of opening and editing up to 5 documents including titles,
 adjusting the size of the font and logging in.  
 I used the MSPaint of Windows for making images of UI.
 
+<img src="./image_1.png" width="500"/>
+<img src="./image_2.png" width="500"/>
