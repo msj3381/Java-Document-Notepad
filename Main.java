@@ -50,7 +50,7 @@ class Frame extends JFrame implements ActionListener {
 	private JTextArea activityAre = new JTextArea();
 	private JLabel loginBackgroundLbl = new JLabel(new ImageIcon("imgsrc/loginForm.png"));
 	private JLabel activityBackgroundLbl = new JLabel(new ImageIcon("imgsrc/activityForm.png"));
-	private JLabel loginSucceedLbl = new JLabel("로그인에 성공하였습니다. 문성준(" + ID + ")님 반갑습니다.");
+	private JLabel loginSucceedLbl = new JLabel("로그인에 성공하였습니다. Joon(" + ID + ")님 반갑습니다.");
 	private JLabel loginFailedBecauseAllLbl = new JLabel("아이디 또는 비밀번호가 일치하지 않아 로그인에 실패하였습니다.");
 	private JLabel loginFailedBecausePwLbl = new JLabel("아이디에 맞는 비밀번호가 일치하지 않아 로그인에 실패하였습니다.");
 	private JLabel pleaseLoad = new JLabel("먼저 파일 불러오기를 시도해주십시오.");
